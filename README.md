@@ -17,6 +17,10 @@ I am a science education (chemistry) graduate with a strong interest in AI resea
 - Python-based project to predict student performance based on study patterns
 - Focus on understanding data, assumptions, and model behavior
 - Tools: Python, Google Colab
+- ### 2. Python Logic and Loops
+- Demonstrates decision making using if/elif/else
+- Uses for-loops to iterate through data
+- Focus on understanding program flow and logic
 
 (More projects will be added as skills grow.)
 
